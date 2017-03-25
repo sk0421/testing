@@ -4,9 +4,9 @@ title: "Welcome to Lagrange!"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
-  credit: Death to Stock Photo
+  feature: header.jpg
+  teaser: header.jpg
+  credit: Melissa Hickok
   creditlink: ""
 ---
 

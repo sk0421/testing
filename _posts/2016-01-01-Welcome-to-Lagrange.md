@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Jacob Frias Koehler"
 categories: journal
 tags: [documentation,sample]

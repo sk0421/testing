@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: "Jacob Frias Koehler"
 categories: journal
 tags: [documentation,sample]
 image:
@@ -9,25 +9,26 @@ image:
   credit: Melissa Hickok
   creditlink: ""
 ---
-
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Hi.  I am currently a mathematics teacher at The New School, New York University, and the Borough of Manhattan Community College.  My primary interests involve alternative approaches to thinking about mathematics and schooling.  Here, you will find materials from my classes, blog posts about teaching ideas and other ideas.
 
 ### Getting Started
 
-[Installation Guide]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): this post will help you get started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+[Installation Guide]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): this post will help you get started with using the materials.  Downloading and editing is described as well as how to deploy these files through sagemathcloud as a way to share and collect materials from students.
 
-### Using Lagrange
+### PreCalculus
 
-[Working With Jekyll]({{ site.github.url }}{% post_url 2015-11-11-Working-With-Jekyll %}): this post will acquaint you with how to use Jekyll to create your own site.
+[Introduction]({{ site.github.url }}{% post_url 2015-11-11-Working-With-Jekyll %}): Here you can find materials for my current PreCalculus class taught at The New School.
 
-[Working With Lagrange]({{ site.github.url }}{% post_url 2015-10-10-Working-With-Lagrange %}): this post will acquaint you with how to use Jekyll to create your own site.
+[Section I]({{ site.github.url }}{% post_url 2015-10-10-Working-With-Lagrange %}): this post will acquaint you with how to use Jekyll to create your own site.
 
-### Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2015-09-09-Text-Formatting %})
+
+### Quantitative Reasoning
+
+[QR I:]({{ site.github.url }}{% post_url 2015-09-09-Text-Formatting %})  Here you can find materials for my current Quantitative Reasoning class taught at The New School.
 
 [Math and Code Formatting]({{ site.github.url }}{% post_url 2015-08-08-Math-and-Code-Formatting %})
 
 ### Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+This site was created using the Lagrange theme from LeNPaul under the [MIT License](http://choosealicense.com/licenses/mit/). Please use change and share these materials as you would like with appropriate attribution.

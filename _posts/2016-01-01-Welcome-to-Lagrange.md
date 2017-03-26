@@ -13,7 +13,7 @@ Hi.  I am currently a mathematics teacher at The New School, New York University
 
 ### Getting Started
 
-[Installation Guide]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): this post will help you get started with using the materials.  Downloading and editing is described as well as how to deploy these files through sagemathcloud as a way to share and collect materials from students.
+[Installation Guide]({{ site.github.url }}{% post_url 2017-03-26-Installation-Guide %}): this post will help you get started with using the materials.  Downloading and editing is described as well as how to deploy these files through sagemathcloud as a way to share and collect materials from students.
 
 ### PreCalculus
 

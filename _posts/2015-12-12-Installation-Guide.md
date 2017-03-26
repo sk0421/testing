@@ -4,8 +4,8 @@ title: "PreCalculus"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: math_2.jpg
-  teaser: math_2.jpg
+  feature: math_2.png
+  teaser: math_2.png
   credit: Melissa Hickok
   creditlink: ""
 ---

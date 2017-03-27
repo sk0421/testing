@@ -2,4 +2,8 @@
 layout: page
 title: About
 ---
-Lagrange is a minimalist Jekyll. It is intended to have a clean, content focused interface for blog writing.
+I'm a mathematics teacher at The New School, New York University, and the Borough of Manhattan Community College.  I received my PhD from Columbia University under the direction of Dr. Bruce Vogeli with my dissertation *Architectures of the Mathematical Child*.  My interests are in thinking differently about mathematics and schooling.
+
+Please contact me if you need any help making use of the materials or have questions on their use.
+
+---

@@ -21,6 +21,8 @@ navigation:
   url: /writing
 - title: Contact
   url: /contact
+- title: PreCalculus
+  url: /precalculus
 
 paginate:            5
 disqus:              #"your-disqus"
